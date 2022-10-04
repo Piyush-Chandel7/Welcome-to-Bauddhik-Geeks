@@ -56,5 +56,5 @@
 <td align="center"><a href="https://github.com/iatharva"><img src="https://github.com/iatharva.png" width="100px;" alt=""/><br /><sub><b>Atharva Ikhar</b></sub></a></td>
 <td align="center"><a href="https://github.com/Wishy-S"><img src="https://github.com/Wishy-S.png" width="100px;" alt=""/><br /><sub><b>Shubham Vyas</b></sub></a></td>
 <td align="center"><a href="https://github.com/kevalvavaliya"><img src="https://github.com/kevalvavaliya.png" width="100px;" alt=""/><br /><sub><b>keval vavaliya</b></sub></a></td>
-<td align="center"><a href="https://github.com/Piyush-Codes7"><img src="https://github.com/Piyush-Codes7.png" width="100px;" alt=""/><br /><sub><b>Piyush Chandel</b></sub></a></td>
+<td align="center"><a href="https://github.com/Piyush-Chandel7"><img src="https://github.com/Piyush-Chandel7.png" width="100px;" alt=""/><br /><sub><b>Piyush Chandel</b></sub></a></td>
 </table>
